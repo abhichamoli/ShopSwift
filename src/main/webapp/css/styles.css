@@ -1,0 +1,45 @@
+#login{
+	border:2px solid #089EA9;
+	position:fixed;
+	top:30%;
+	left:25%;
+	background-color:#D7F5F5;
+	width : 600px;
+}
+
+
+#ltag{
+	margin-top: 0px;
+	background-color:#4DC7C7
+}
+
+
+#sbutton{
+	margin-left:545px;
+	background-color:white;
+	width:55px;
+	height:25px;
+}
+
+
+#logoutbtn{
+	position:fixed;
+	top:3%;
+	right:1%;
+}
+
+#usergreeting{
+	position:fixed;
+	right:7%;
+	top:3%;
+}
+
+#pheading{
+	position:fixed;
+	left:35%;
+	top:3%;
+	font-size:24px;
+}
+
+
+
