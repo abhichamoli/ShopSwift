@@ -1,5 +1,5 @@
 # ShopSwift
-web application to manage stock of available items in E commerce website.
+web application to manage stock of available items in E commerce website build using Java Servlet, Hibernate, JSP, MY SQL.
 
 ![EditDetailsPage](https://github.com/abhichamoli/ShopSwift/assets/32952972/7e776ee8-912f-4861-acf8-93ca9bc59cc2)
 
